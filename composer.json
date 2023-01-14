@@ -1,5 +1,5 @@
 {
-    "name": "nova-kit/nova-packages-tool",
+    "name": "elsayed85/nova-packages-tool",
     "description": "Tool for Laravel Nova Packages Development",
     "type": "library",
     "license": "MIT",
@@ -16,7 +16,6 @@
     },
     "require": {
         "php": "^7.3 || ^8.0",
-        "laravel/nova": ">=4.19.0 <4.21.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.24 || ^7.0"
